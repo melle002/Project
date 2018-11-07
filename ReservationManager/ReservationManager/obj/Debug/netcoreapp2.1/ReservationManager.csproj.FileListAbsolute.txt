@@ -1,0 +1,10 @@
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\obj\Debug\netcoreapp2.1\ReservationManager.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\obj\Debug\netcoreapp2.1\ReservationManager.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\obj\Debug\netcoreapp2.1\ReservationManager.AssemblyInfo.cs
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\bin\Debug\netcoreapp2.1\ReservationManager.deps.json
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\bin\Debug\netcoreapp2.1\ReservationManager.runtimeconfig.json
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\bin\Debug\netcoreapp2.1\ReservationManager.runtimeconfig.dev.json
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\bin\Debug\netcoreapp2.1\ReservationManager.dll
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\bin\Debug\netcoreapp2.1\ReservationManager.pdb
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\obj\Debug\netcoreapp2.1\ReservationManager.dll
+C:\Users\micha\source\repos\ReservationManager\ReservationManager\obj\Debug\netcoreapp2.1\ReservationManager.pdb
